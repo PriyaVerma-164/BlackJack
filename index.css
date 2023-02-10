@@ -1,0 +1,31 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    background-image:url("https://www.shutterstock.com/image-vector/white-vintage-poker-heart-distressed-260nw-203173120.jpg");
+    background-color: rgb(36, 119, 36);
+    background-size: cover;
+    text-align: center;
+    font-weight: bolder;
+}
+h1 {
+    color: red;
+    
+}
+
+#message-el ,p {
+   color: rgb(92, 127, 223);
+
+}
+button{
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 4px;
+    margin-top: 2px;
+
+}
+
+ 
